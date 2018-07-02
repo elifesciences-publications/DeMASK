@@ -13,6 +13,7 @@ This package was designed to assist those attempting to understand complicated s
 * smODEfcnON.m - function defining ODEs
 * myresODEgloOnOffFull.m - function generating residuals used in least squares minimization
 * myresODEgloFIGSon.m - function to generate figures after fit
+* data folder containing cumulative distributions generated from single molecule dwell time analysis (.csv files)
 
 ## Instructions
 * Clone repository and store all contents together in one folder (all .m MATLAB scripts and all .csv data files).

@@ -10,12 +10,12 @@ This package was designed to assist those attempting to understand complicated s
 
 ## Included Content
 * DeMASK.m - main MATLAB fitting/bootstrap script
-* smodefcnON.m - function defining ODEs
+* smODEfcnON.m - function defining ODEs
 * myresODEgloOnOffFull.m - function generating residuals used in least squares minimization
 * myresODEgloFIGSon.m - function to generate figures after fit
 
 ## Instructions
-* Download repository and store contects together in one folder.
+* Download repository and store all contects together in one folder (all .m MATLAB scripts and all .csv data files).
 * Run DeMASK script. 
 * When prompted, enter the path to the scripts/data.
 * When prompted enter the number of desired bootstrap iterations to perform.

@@ -7,3 +7,15 @@ This package was designed to assist those attempting to understand complicated s
 
 ## Related Resources
 * <a href="https://www.biorxiv.org/content/early/2018/05/10/319749">Our preprint</a>
+
+## Included Content
+*DeMASK.m - main MATLAB fitting/bootstrap script
+*smodefcnON.m - function defining ODEs
+*myresODEgloOnOffFull.m - function generating residuals used in least squares minimization
+*myresODEgloFIGSon.m - function to generate figures after fit
+
+## Instructions
+*Download repository and store contects together in one folder.
+*Run DeMASK script. 
+*When prompted, enter the path to the scripts/data.
+*When prompted enter the number of desired bootstrap iterations to perform.

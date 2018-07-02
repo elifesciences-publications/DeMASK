@@ -15,7 +15,7 @@ This package was designed to assist those attempting to understand complicated s
 * myresODEgloFIGSon.m - function to generate figures after fit
 
 ## Instructions
-* Download repository and store all contects together in one folder (all .m MATLAB scripts and all .csv data files).
-* Run DeMASK script. 
+* Clone repository and store all contents together in one folder (all .m MATLAB scripts and all .csv data files).
+* Run DeMASK script in MATLAB. 
 * When prompted, enter the path to the scripts/data.
 * When prompted enter the number of desired bootstrap iterations to perform.
